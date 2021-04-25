@@ -1,23 +1,8 @@
 {
- "Teams":[
- {
-  name="Golden State Warriors"
-  "league":"NBA",
-  "id":16,
-  "ranking":10
- },
- {
- name="Torronto Raptors"
- "league":"NBA",
-  "id":11,
-  "ranking":7
- },
- {
-  name="OkiHuma city hunters"
-  "league":"NBA",
-  "id":15,
-  "ranking":09
- }
-
-]
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
 }
